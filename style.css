@@ -96,5 +96,14 @@ button {
     font-size: 18px;
     font-weight: 900;
     padding: 5px;
+}
+
+.section-one {
+    border: 4px solid red;
+    display: flex;
+    justify-content: center;
+    padding: 30px 50px 80px 50px;
 
 }
+
+.random-info {}
