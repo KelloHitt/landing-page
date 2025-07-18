@@ -142,14 +142,12 @@ button {
 .section-two {
     display: flex;
     background-color: #E5E7EB;
-    height: 500px;
+    height: 400px;
     justify-content: center;
-    border: 4px solid red;
 
 }
 
 .container {
-    border: 4px solid green;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -158,10 +156,11 @@ button {
 .quote {
     font-size: 36px;
     color: #1f2937 light;
-    border: 4px solid red;
-    width: 700px;
+    width: 760px;
     align-self: center;
     font-style: italic;
+    border: 4px solid red;
+
 }
 
 .reference {
