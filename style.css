@@ -167,4 +167,5 @@ button {
 .reference {
     font-size: 24px;
     font-weight: bold;
+    align-self: flex-end;
 }
