@@ -177,4 +177,6 @@ button {
 
 .action {
     background-color: #3882F6;
+    color: white;
+    display: flex;
 }
