@@ -167,3 +167,14 @@ button {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.section-three {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action {
+    background-color: #3882F6;
+}
