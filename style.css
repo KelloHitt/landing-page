@@ -145,6 +145,7 @@ button {
     background-color: #E5E7EB;
     height: 500px;
     justify-content: center;
+    border: 4px solid red;
 
 }
 
@@ -157,4 +158,6 @@ button {
     font-style: italic;
 }
 
-.reference {}
+.reference {
+    font-size: 24px;
+}
