@@ -138,3 +138,15 @@ button {
     text-align: center;
     margin-top: 5px;
 }
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: light;
+}
