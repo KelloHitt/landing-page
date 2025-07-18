@@ -111,20 +111,31 @@ button {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+    margin-bottom: 50px;
 }
 
 .squares {
     display: flex;
-    border: 4px solid red;
+    gap: 50px;
 }
 
 .square {
-    border: 4px solid blue;
+    border: 4px solid #3882F6;
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0px;
 }
 
 .square-text {
-    border: 4px solid aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+}
+
+.square-text p {
+    text-align: center;
+    margin-top: 5px;
 }
